@@ -10,3 +10,6 @@ This is a simple repository created to learn and practice Git commands.
 
 ## Author
 Kushagra
+
+
+#Pls complete the course
